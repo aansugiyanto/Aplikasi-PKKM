@@ -1,0 +1,6 @@
+{
+  "name": "PKKM MTs Negeri 7 Kebumen",
+  "description": "Sistem Penilaian Kinerja Kepala Madrasah (PKKM) MTs Negeri 7 Kebumen terintegrasi Google Drive dengan rekapitulasi nilai otomatis, pelaporan real-time, dan ekspor laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
